@@ -1,6 +1,6 @@
 # EtherRise
 
-My EtherRise is a decentralized crowdfunding platform built on Solidity, React, Vite, and Tailwind CSS. It allows users to create campaigns and raise funds using their MetaMask accounts. Users can also donate to campaigns they support.
+My EtherRise is a decentralized crowdfunding platform built on Blockchain Technology using  Solidity, React, Vite, and Tailwind CSS. It allows users to create campaigns and raise funds using their MetaMask accounts. Users can also donate to campaigns they support.
 
 ## About
 
@@ -16,13 +16,19 @@ My EtherRise was created to provide a decentralized and transparent platform for
 ## Screenshots
 
 ### Homepage
+
 ![Homepage](Homepage.png)
 
+
 ### Start Campaign
+
 ![Start Campaign](StartCampaign.png)
 
+
 ### Campaign View
+
 ![Campaign View](Campaign.png)
+
 
 ## Technologies Used
 
