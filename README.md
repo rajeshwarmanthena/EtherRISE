@@ -51,6 +51,4 @@ The contract is deployed on the Goerli testnet via the ThirdWeb platform.
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
